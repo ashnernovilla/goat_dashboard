@@ -39,3 +39,4 @@ This project is a simple Streamlit app that embeds a Power BI report using a pub
 This app uses Streamlit for its lightweight and intuitive interface, making it easy to embed external content such as Power BI reports.
 
 ## Streamlit Link
+https://goat-performance-dashboard.streamlit.app/
